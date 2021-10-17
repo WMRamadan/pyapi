@@ -9,7 +9,7 @@ A simple python REST api framework.
 
 ## How to Run pyapi
 
-Navigate to project folder and run the following to start the server:
+Navigate to project `src` folder and run the following to start the server:
 
     python3 main.py
 
